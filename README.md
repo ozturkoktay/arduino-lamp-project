@@ -1,1 +1,1 @@
-# arduino-lamp-project
+# Arduino Smart Lamp  Project
